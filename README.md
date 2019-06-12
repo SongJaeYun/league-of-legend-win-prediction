@@ -3,6 +3,12 @@ This project is to predict win rate from simulated virtual match-up of *League o
 
 Basically LoC system consists of 2 system, react client and API server. Client program provides the Web app to users through React engine and it calls API to process core logics of the system, including calculating win rate.
 
+## Environment
+CUDA 9.2
+cuDNN 6021
+Python 3.5.2
+tensorflow 1.13.1 (including tensorflow-gpu 1.13.1)
+
 ## How to install
 
 ### Client
